@@ -16,10 +16,10 @@ Il s'agit de créer des rencontres encore plus régulières pour travailler dans
 
 ### Code de conduite :
 
-Pyladies Paris a pour objectif de créer des espaces safes pour que les femmes, cis ou trans, les hommes trans et les genderqueers puissent se retrouver régulièrement sans subir de discriminations, de harcèlements ou de micro-agressions.
+Pyladies Paris a pour objectif de créer des espaces pour que les femmes, cis ou trans, les hommes trans et les genderqueers puissent se retrouver régulièrement sans subir de discriminations, de harcèlements ou de micro-agressions.
 Par conséquence, nous organiserons à la fois des évènements mixtes et non-mixtes dont les règles sont les suivantes :
 - Non-mixte : seul les femmes, cis ou trans, les hommes trans et les genderqueers peuvent assister à ces évènments.
-- Mixte : les hommes cis ne peuvent venir que s'is sont le "+1" de quelqu'un.
+- Mixte : les hommes cis ne peuvent venir que s'is sont le "+1" d'un membre du groupe.
 
 Afin de clarifier nos attentes, tous les représentants/participants, conférenciers, exposants, organisateurs et bénévoles aux événements de Pyladies Paris doivent se conformer au code de conduite. Ce code de conduite s'applique à tous les événements de l'association.
 
@@ -49,17 +49,17 @@ Le harcèlement inclut:
 
 - Le fait de continuer une conversation après que l'autre personne ait signalé son désir de l'arrêter.
 
-- Le fait de délibéremment révéler un élément de la personnalité d'une personne sans son autorisation, excepté dans le cas où le faire protégerait les membres de Pyladies Paris.
+- Le fait de délibéremment révéler un élément de la personnalité ou de l'histoire d'une personne sans son autorisation, excepté dans le cas où le faire protégerait les membres de Pyladies Paris.
 
 - Le fait de publier publiquement des extraits de conversations privées. Une exception est cependant autorisée lorsqu'il s'agit de dénoncer le harcèlement que l'on subit ou qu'une autre personne subit.
 
-Pyladies Paris prévilégie le confort des personnes marginalisées avant celui des personnes privilégiées. L'objectif de ce groupe n'est pas non plus d'éduquer les personnes privilégiées car il existe déjà de très nombreuses ressources sur le féminisme, les espaces non-mixtes, le racisme, etc. Les plaintes suivantes seront systématiquement rejetées :
+Pyladies Paris prévilégie le confort des personnes marginalisées avant celui des personnes privilégiées. L'objectif de ce groupe n'est pas non plus d'éduquer les personnes privilégiées car il existe déjà de très nombreuses ressources sur le féminisme, les espaces non-mixtes, le racisme, etc. Les plaintes suivantes seront donc systématiquement rejetées :
 
-- Les "inversions" de -ismes. Cela inclus : le sexisme anti-homme, le racisme anti-blanc et la cisphobie car ils n'hésistent pas (cf Geek Feminism Wiki).
+- Les "inversions" de -ismes. Cela inclus : le sexisme anti-homme, le racisme anti-blanc et la cisphobie car cela n'hésiste pas.
 
 - Les plaintes suite à l'arrêt d'une discussion ou sur le refus d'un membre de pyladies Paris de répondre à des questions venant de membres extérieurs du groupe.
 
-- Les plaintes sur le refus d'expliquer ou de débatre sur des concepts liés au féminisme ou à la justice sociale.
+- Les plaintes suite au refus d'expliquer ou de débatre sur des concepts liés au féminisme ou à la justice sociale.
 
 - Les plaintes concernant le ton qu'emploient des personnes membres de Pyladies Paris dans leur communication.
 
@@ -69,7 +69,7 @@ Si un participant a un comportement de harcèlement, les organisateurs de l'év�
 
 Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Le staff est identifiable grâce aux badges "organisation".
 
-Les membres de l'organisation aideront volontiers les participants à contacter la sécurité de l'hôtel ou des lieux où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Votre participation à l'événement compte beaucoup pour nous.
+Les membres de l'organisation aideront volontiers les participants à contacter la sécurité des lieux où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Votre participation à l'événement compte beaucoup pour nous.
 
 Nous attendons des participants qu'ils suivent ces règles sur les lieux des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la l'événement.
 
@@ -109,7 +109,7 @@ L'organisation se réserve le droit d'exclure tout participant quelque soit la r
     Une simple infraction sérieuse (par exemple, violence ou contacts physiques inappropriés)
     Une simple infraction intentionnelle (exemple: une photo sous une jupe)
 
-Les autorités locales, la salle ou l'hôtel peuvent être contactés en cas de besoin.
+Les autorités locales, la salle peuvent être contactés en cas de besoin.
 
 #### Informations
 
