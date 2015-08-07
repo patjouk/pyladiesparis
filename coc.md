@@ -16,31 +16,76 @@ Il s'agit de créer des rencontres encore plus régulières pour travailler dans
 
 ### Code de conduite :
 
-Pyladies Paris a pour objectif de créer des espaces safes pour que les femmes, cis ou trans, les hommes trans et les genderqueers puissent se retrouver régulièrement sans subir de discriminations, de harcèlements ou de micro-agressions. 
+Pyladies Paris a pour objectif de créer des espaces safes pour que les femmes, cis ou trans, les hommes trans et les genderqueers puissent se retrouver régulièrement sans subir de discriminations, de harcèlements ou de micro-agressions.
+Par conséquence, nous organiserons à la fois des évènements mixtes et non-mixtes dont les règles sont les suivantes :
+- Non-mixte : seul les femmes, cis ou trans, les hommes trans et les genderqueers peuvent assister à ces évènments.
+- Mixte : les hommes cis ne peuvent venir que s'is sont le "+1" de quelqu'un.
 
-Nous attachons une importance à la participation de tous les membres de la communauté PHP et souhaitons que chaque participant vive une expérience positive. Dans cette optique, nous attendons de tous les participants qu'ils fassent preuve de respect et de courtoisie envers les autres participants pendant toute la durée des événements de l'association et des événements affiliés à l'AFUP.
+Afin de clarifier nos attentes, tous les représentants/participants, conférenciers, exposants, organisateurs et bénévoles aux événements de Pyladies Paris doivent se conformer au code de conduite. Ce code de conduite s'applique à tous les événements de l'association.
 
-Afin de clarifier nos attentes, tous les représentants/participants, conférenciers, exposants, organisateurs et bénévoles aux événements de l'AFUP doivent se conformer au code de conduite ci-dessous. Ce code de conduite s'applique à tous les événements de l'association.
+Le harcèlement inclut:
 
-Le harcèlement inclut des commentaires oraux sur le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, la religion, les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, une suite d'interruption des conférences et des autres événements, un contact physique inapproprié et des avances sexuelles non désirées.
+- Les remarques malvaillantes sur le sexe, le genre, l'orientation sexuelle, le handicap, les maladies mentales, l'apparence physique, le poids, la race, la religion.
+
+- Les commentaires déplacés sur les choix de vie ou les pratiques d'une personne, particulièrement dans les domaines suivants : l'alimentation, l'éducation, la drogue et le travail.
+
+- Le fait de délibéremment mal genrer une personne ou utiliser le mauvais prénom.
+
+- Les comportements ou l'utilisation d'images à connotation sexuelle dans des lieux où cela n'est pas approprié.
+
+- Les avances sexuelles non désirées.
+
+- Les contacts physiques, simulés ou non (ex: descriptions textuelles de type *calin*, */me te masse*) non mutuellement consentis et qui continuent malgré la demande d'arrêt.
+
+- Les menaces physiques.
+
+- Les intimidations délibérées.
+
+- La traque, la poursuite.
+
+- Le fait de prendre en photo ou vidéo une personne qui ne souhaite pas être prise en photo et de refuser d'arrêter.
+
+- Le fait d'interrompre sans arrêt des conférences ou d'autres événements.
+
+- Le fait de continuer une conversation après que l'autre personne ait signalé son désir de l'arrêter.
+
+- Le fait de délibéremment révéler un élément de la personnalité d'une personne sans son autorisation, excepté dans le cas où le faire protégerait les membres de Pyladies Paris.
+
+- Le fait de publier publiquement des extraits de conversations privées. Une exception est cependant autorisée lorsqu'il s'agit de dénoncer le harcèlement que l'on subit ou qu'une autre personne subit.
+
+Pyladies Paris prévilégie le confort des personnes marginalisées avant celui des personnes privilégiées. L'objectif de ce groupe n'est pas non plus d'éduquer les personnes privilégiées car il existe déjà de très nombreuses ressources sur le féminisme, les espaces non-mixtes, le racisme, etc. Les plaintes suivantes seront systématiquement rejetées :
+
+- Les "inversions" de -ismes. Cela inclus : le sexisme anti-homme, le racisme anti-blanc et la cisphobie car ils n'hésistent pas (cf Geek Feminism Wiki).
+
+- Les plaintes suite à l'arrêt d'une discussion ou sur le refus d'un membre de pyladies Paris de répondre à des questions venant de membres extérieurs du groupe.
+
+- Les plaintes sur le refus d'expliquer ou de débatre sur des concepts liés au féminisme ou à la justice sociale.
+
+- Les plaintes concernant le ton qu'emploient des personnes membres de Pyladies Paris dans leur communication.
 
 Les sponsors sont aussi sujet à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images ou de matériels à connotation sexuelle. Ils ne doivent pas non plus engager d'activités à connotation sexuelle. L'équipe du stand (y compris les volontaires) ne doivent pas utiliser de vêtements, uniformes ou costumes à connotation sexuelle. Ils ne doivent pas non plus créer un environnement sexualisé.
 
 Si un participant a un comportement de harcèlement, les organisateurs de l'événement peuvent prendre toute décision qui leur semble adéquate. Cela va d'un simple avertissement à l'exclusion du participant de l'événement sans remboursement.
 
-Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Le staff est facilement identifiable à ses t-shirts ou par ses tours de cou personnalisés.
+Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Le staff est identifiable grâce aux badges "organisation".
 
 Les membres de l'organisation aideront volontiers les participants à contacter la sécurité de l'hôtel ou des lieux où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Votre participation à l'événement compte beaucoup pour nous.
 
 Nous attendons des participants qu'ils suivent ces règles sur les lieux des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la l'événement.
-Procédure en cas d'incident pour l'équipe organisatrice
+
+#### Procédure en cas d'incident pour l'équipe organisatrice
 Avertissements
 
-Tout membre de l'équipe organisatrice peut émettre un avertissement oral à l'encontre d'un participant dont le comportement enfreint le présent code de conduite. Tout avertissement doit être rapporté à l'adresse email bureau@afup.org dès que possible. Voir la section Comptes-rendus pour plus d'informations.
-Présentations / Conférences
+Tout membre de l'équipe organisatrice peut émettre un avertissement oral à l'encontre d'un participant dont le comportement enfreint le présent code de conduite. Tout avertissement doit être rapporté à l'adresse email paris@pyladies.com dès que possible. Voir la section Comptes-rendus pour plus d'informations.
+
+Nous protégerons l'anonyma des personnes concernées afin de protéger la personnes victime d'abus. Nous pouvons faire le choix de publier publiquement le nom de la personne qui aura enfreint le code de conduite ou de prévenir d'autres organisations si nous pensons que cela permettra de protéger d'autres personnes dans d'autres évènements. Nous ne diffuserons en aucun cas le nom des victimes, sauf si elles nous autorisent à le faire.
+
+
+#### Présentations / Conférences
 
 Une conférence, une présentation ou une manifestation similaire ne devrait pas être interrompue pour une légère infraction à cette charte ou des problèmes mineurs, toutefois un membre de l'équipe organisatrice doit aborder le point problématique avec l'orateur suite à l'événement. Par contre, l'équipe organisatrice doit tout mettre en œuvre pour interrompre calmement et poliment toute présentation ou manifestation qui enfreindrait régulièrement ou sérieusement ce code de conduite. Une simple phrase sans justification telle que « Nous sommes désolés mais cette présentation ne peut continuer en l'état actuel. » est suffisante.
-Comptes rendus
+
+#### Comptes rendus
 
 Dans le cas où une personne viendrait rapporter un incident, il est prudent de noter les faits énoncés. Il faut assurer à la victime qu'elle est prise au sérieux en évitant des promesses sur les mesures qui pourraient être prises par l'organisation. Si la personne n'a pas initié la demande, il faut rassembler le maximum d'informations (tels que le moment et le lieu) sans la contraindre si celle-ci est réticente. Même dans le cas où le compte rendu ne contient pas tous les points importants telle que l'identité de la personne à l'origine du harcèlement, il doit être consigné et communiqué à un membre approprié de l'équipe organisatrice. Si la personne le souhaite, il peut être convenu de la faire accompagner par un membre de l'organisation ou une personne de confiance, ou encore de contacter un ami ou les forces de l'ordre. Il ne faut pas forcer la personne ayant subi le harcèlement à prendre des mesures contre leur gré. Afin de respecter la vie privée de la personne, la diffusion inutile de détails à des tiers qui n'ont pas été impliqués ou à des membres ne faisant pas partie de l'organisation doit être évitée.
 
@@ -54,7 +99,7 @@ Dans la mesure du possible, le compte rendu doit contenir :
     Votre identité
     Les autres personnes impliquées dans l'incident
 
-Exclusion
+#### Exclusion
 
 L'organisation se réserve le droit d'exclure tout participant quelque soit la raison. Voici quelques directives générales permettant d'estimer si un participant doit être exclu:
 
@@ -65,19 +110,14 @@ L'organisation se réserve le droit d'exclure tout participant quelque soit la r
     Une simple infraction intentionnelle (exemple: une photo sous une jupe)
 
 Les autorités locales, la salle ou l'hôtel peuvent être contactés en cas de besoin.
-Déclaration publique
 
-Sauf raison majeure, l'équipe organisatrice n'a pas à faire de déclaration publique sur le comportement d'individus pendant ou après l'événement. De manière générale, n'hésitez pas à consulter les membres de l'organisation dès que possible mais n'agissez qu'en cas de besoin.
-Informations
+#### Informations
 
-En cas de doute sur un point du présent code de conduite, la version anglaise fait référence.
+Pour toute question concernant ce code de conduite, merci d'envoyer un courrier électronique à paris@pyladies.com.
 
-Pour toute question concernant ce code de conduite, merci d'envoyer un courrier électronique à contact@afup.org.
-
-Il est possible de contribuer à ce code de conduite ou de rapporter une erreur via le repo GitHub.
 Licence and attribution
 
 Ce code de conduite est publié sous licence Commons Zero et fait partie du domaine public. Aucune attribution ou licence ouverte ne sont requises pour votre version.
 
-Cette charte anti-harcèlement est basée sur anti-harassement policy example de Geek Feminism wiki, créée par Ada Initiative et autres volontaires ainsi que sur le code de conduite de PHP UK.
+Cette charte anti-harcèlement est basée sur anti-harassement policy example de Geek Feminism wiki, créée par Ada Initiative et autres volnotaires ainsi que sur le code de conduite de PHP UK et l'AFUP.
 / Code de conduite
